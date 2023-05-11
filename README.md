@@ -14,7 +14,10 @@ pip install pybpg400-tspspi
 
 ## Usage
 
-The device can be simply opened via context management routines:
+More elaborate examples can be found in the ```examples``` folder.
+
+The device can be simply opened via context management routines (in
+addition to imperative ```connect()``` and ```disconnect()``` routines):
 
 ```
 from bpg400.bpg400 import RPG400_RS232
