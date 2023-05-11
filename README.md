@@ -4,6 +4,14 @@ This is an unofficial Python library (and a mini CLI utility)
 to control and access the INFICON BPG400 pressure gauge via
 it's RS232C serial port.
 
+## Installation
+
+This library (and the CLI utility) is provided via PyPi:
+
+```
+pip install pybpg400-tspspi
+```
+
 ## Usage
 
 The device can be simply opened via context management routines:
