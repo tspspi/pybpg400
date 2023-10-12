@@ -1,5 +1,7 @@
 # ```pybpg400```: Unofficial Python library to control and access the INFICON BPG400 pressure gauge (via RS232C)
 
+![BPG400 pressure gauge on a vacuum chamber](https://raw.githubusercontent.com/tspspi/pybpg400/master/doc/bpg400.png)
+
 This is an unofficial Python library (and a mini CLI utility)
 to control and access the INFICON BPG400 pressure gauge via
 it's RS232C serial port.
